@@ -9,7 +9,7 @@ interface FavoriteState {
 
 const initialState: FavoriteState = {
   ids: getFavoritesFromStorage(),
-  overlayOpen: true,
+  overlayOpen: false,
 }
 
 const favoriteSlice = createSlice({
