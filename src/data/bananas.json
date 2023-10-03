@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "f85861a0-50eb-4e7b-b15b-8e99e5f8b65d",
+      "name": "Funky Yellow Boy",
+      "price": 2.99
+    },
+    {
+      "id": "86db829e-3ad5-4565-aa5e-8875c146e5bd",
+      "name": "Crimson Dreamer",
+      "price": 3.49
+    },
+    {
+      "id": "f6c6c827-8a69-4c2e-9ea0-1c0864637c2e",
+      "name": "Whispering Forest Plantain",
+      "price": 1.99
+    },
+    {
+      "id": "d9e5aa62-6ccf-470c-8a73-2429168472d9",
+      "name": "Enchanted Fingerling",
+      "price": 2.79
+    },
+    {
+      "id": "80c9c8f6-2d6c-4b54-b9ae-15aa5e6f88ec",
+      "name": "Sorcerer's Apple Banana",
+      "price": 3.29
+    },
+    {
+      "id": "ea04a16c-d8e9-4a29-b15f-6bf380943878",
+      "name": "Golden Burro Delight",
+      "price": 2.49
+    },
+    {
+      "id": "6b62e489-8f12-4674-9a2e-86cc5ebba935",
+      "name": "Royal Wizard's Pisang",
+      "price": 2.99
+    },
+    {
+      "id": "18e0b50b-2853-4f44-8d42-0a296b70a2e4",
+      "name": "Azure Dream Java",
+      "price": 3.99
+    },
+    {
+      "id": "82dc7053-9314-4d80-9b78-d0a2872d89ed",
+      "name": "Regal Gros Michel",
+      "price": 4.49
+    },
+    {
+      "id": "fffa21ac-b002-4852-9c7d-8c5f63e68de3",
+      "name": "Moonlit Manzano",
+      "price": 2.69
+    }
+  ]
+}
